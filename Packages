@@ -1,0 +1,22 @@
+Package: com.wynd.dreamboard
+Name: DreamBoard
+Version: 1.1.4
+Architecture: iphoneos-arm
+Author: Andrew Liu <wyndwarrior@hotmail.com>
+Depends: mobilesubstrate, wget, coreutils
+Depiction: http://modmyi.com/info/dreamboard.d.php
+Priority: extra
+Section: System
+Description: Free! Advanced Theming Platform. Take control over SpringBoard!
+Homepage: http://modmyi.com/info/dreamboard.php
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+Filename: debs/com.wynd.dreamboard_1.1.4_iphoneos-arm.deb
+Depiction: https://chumbledev.github.io/depictions/com.wynd.dreamboard.html
+Icon: https://chumbledev.github.io/icons/com.wynd.dreamboard.png
+Size: 10001288
+MD5sum: 608390ca3439fa392291dd2ca700c2bb
+SHA1: d8b96e8720a03a0e644e9a0259ccee3abcd21404
+SHA256: c4f9938465ec43b46836ab44c620c5c44e8ec74e77dbacc5e6d36df7f99d6c85
+SHA521: 47345905f7924c85db495abd526c4c8b40212ee91d7f215535ece8f5e0519721b3aeea2e368cb4457e5cfe59c9db44355636b1f33c6cd81451f2701fd00bee63
+
