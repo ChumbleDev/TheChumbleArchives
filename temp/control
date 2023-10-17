@@ -1,0 +1,13 @@
+Package: com.wynd.dreamboard
+Name: DreamBoard
+Version: 1.1.4
+Architecture: iphoneos-arm
+Author: Andrew Liu <wyndwarrior@hotmail.com>
+Depends: mobilesubstrate, wget, coreutils
+Depiction: http://modmyi.com/info/dreamboard.d.php
+Priority: extra
+Section: System
+Description: Free! Advanced Theming Platform. Take control over SpringBoard!
+Homepage: http://modmyi.com/info/dreamboard.php
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
